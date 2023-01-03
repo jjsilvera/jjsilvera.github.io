@@ -5,7 +5,7 @@
 ### Análisis Exploratorio de Datos
 
 [Exploratory Data Analysis - Car Prices](https://github.com/jjsilvera/data-science-portfolio/blob/main/Exploratory%20Data%20Analysis%20of%20Car%20Prices.ipynb)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+<img src="images/cars.jpg?raw=true"/>
 
 ---
 [Project 2 Title](/pdf/sample_presentation.pdf)
