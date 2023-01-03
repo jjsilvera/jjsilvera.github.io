@@ -2,9 +2,9 @@
 
 ---
 
-### Category Name 1 
+### Análisis Exploratorio de Datos
 
-[Project 1 Title](/sample_page)
+[Project 1 Title](https://github.com/jjsilvera/data-science-portfolio/blob/main/Exploratory%20Data%20Analysis%20of%20Car%20Prices.ipynb)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---
