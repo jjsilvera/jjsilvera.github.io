@@ -9,7 +9,7 @@
 
 ---
 [Logistic regression model](https://github.com/jjsilvera/data-science-portfolio/blob/main/Logistic%20Regression%20model.ipynb)
-<img src="images/images/Sigmoid.jpg?raw=true"/>
+<img src="images/Sigmoid.jpg?raw=true"/>
 
 ---
 [Project 3 Title](http://example.com/)
