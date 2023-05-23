@@ -8,12 +8,12 @@
 <img src="images/cars.jpeg?raw=true"/>
 
 ---
-[Project 2 Title](/pdf/sample_presentation.pdf)
+[Logistic regression model](https://github.com/jjsilvera/data-science-portfolio/blob/main/Logistic%20Regression%20model.ipynb)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---
 [Project 3 Title](http://example.com/)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+<img src="images/Sigmoid.jpg?raw=true"/>
 
 ---
 
