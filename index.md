@@ -8,6 +8,8 @@
 <img src="images/cars.jpeg?raw=true"/>
 
 ---
+
+### Machine Learning
 [Logistic regression model](https://github.com/jjsilvera/data-science-portfolio/blob/main/Logistic%20Regression%20model.ipynb)
 <img src="images/Sigmoid.JPG?raw=true"/>
 
