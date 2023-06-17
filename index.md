@@ -15,7 +15,7 @@
 
 ---
 [Clustering Model](https://github.com/jjsilvera/data-science-portfolio/blob/main/Cluster_analysis.ipynb)
-<img src="images/cluster?raw=truee"/>
+<img src="images/cluster.JPG?raw=truee"/>
 
 ---
 
