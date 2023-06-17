@@ -18,6 +18,8 @@
 <img src="images/cluster.JPG?raw=truee"/>
 
 ---
+[Clustering API Madrid](https://github.com/jjsilvera/data-science-portfolio/blob/main/Project_Madrid%20cafeteria_cluster.html)
+<img src="images/cluster.JPG?raw=truee"/>
 
 ### Category Name 2
 
