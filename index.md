@@ -15,7 +15,7 @@
 
 ---
 [Clustering Model](https://github.com/jjsilvera/data-science-portfolio/blob/main/Cluster_analysis.ipynb)
-<img src="images/cluster.png?raw=true"/>
+<img src="images/cluster_3.png?raw=true"/>
 
 ---
 [Clustering API Madrid](https://nbviewer.org/github/jjsilvera/data-science-portfolio/blob/main/Project_Madrid_cafeteria_cluster.ipynb)
