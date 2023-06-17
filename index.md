@@ -18,7 +18,8 @@
 <img src="images/cluster.JPG?raw=truee"/>
 
 ---
-
+[Clustering API Madrid](https://nbviewer.org/github/jjsilvera/data-science-portfolio/blob/main/Project_Madrid_cafeteria_cluster.ipynb)
+<img src="images/cluster.JPG?raw=truee"/>
 
 ### Category Name 2
 
