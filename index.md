@@ -38,7 +38,7 @@
 
 <p>Clasification tasks and prediction of respiratory diseases based on X-Ray images using Convolutional Neural Networks.</p>
 <img src="images/Deep1.PNG?raw=truee"/>
-<p><a href="#"><img src="https://img.shields.io/badge/Python-white?logo=Python" alt="" /></a> <a href="#"><img src="https://img.shields.io/badge/Jupyter-white?logo=Jupyter" alt="" /></a></p>
+<p><a href="#"><img src="https://img.shields.io/badge/Python-white?logo=Python" alt="" /></a> <a href="#"><img src="https://img.shields.io/badge/Jupyter-white?logo=Jupyter" alt="" /></a> <a href="#"><img src="https://img.shields.io/badge/Python-Keras-D00000?logo=keras&logoColor=D00000" alt=""></a> <a href="#"><img src="https://img.shields.io/badge/Python-TensorFlow-FF6F00?logo=tensorflow&logoColor=%23FF6F00" alt=""></a></p>
 ### Category Name 2
 
 - [Exploratory Data Analysis](https://github.com/jjsilvera/data-science-portfolio/blob/main/Exploratory%20Data%20Analysis%20of%20Car%20Prices.ipynb)
