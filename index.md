@@ -23,7 +23,8 @@
 
 ---
 ### Deep Learning
-
+[X-Ray image recognition](https://github.com/jjsilvera/data-science-portfolio/blob/main/X-Ray%20image%20recognition.ipynb)
+<img src="images/Deep_2.png?raw=truee"/>
 
 ### Category Name 2
 
