@@ -22,6 +22,7 @@
 
 <p>Clustering model using KMeans, PCA and Autoencoders for an advertising marketing campaign based on customer's data from a bank.</p>
 <img src="images/cluster_4.png?raw=true"/>
+<p><a href="#"><img src="https://img.shields.io/badge/Python-white?logo=Python" alt="" /></a> <a href="#"><img src="https://img.shields.io/badge/Jupyter-white?logo=Jupyter" alt="" /></a><a href="#"><img src="https://img.shields.io/badge/sklearn-white?logo=scikit-learn" alt="" /></a></p>
 
 ---
 [Clustering API Madrid](https://nbviewer.org/github/jjsilvera/data-science-portfolio/blob/main/Project_Madrid_cafeteria_cluster.ipynb)
