@@ -23,7 +23,9 @@
 
 ---
 ### Deep Learning
-[X-Ray image recognition](https://github.com/jjsilvera/data-science-portfolio/blob/main/X-Ray%20image%20recognition.ipynb)
+[X-Ray image recognition](https://github.com/jjsilvera/data-science-portfolio/blob/main/X-Ray%20image%20recognition.ipynb
+
+<p>Clasification tasks and prediction of respiratory diseases based on X-Ray images using Convolutional Neural Networks</p>
 <img src="images/Deep1.PNG?raw=truee"/>
 
 ### Category Name 2
