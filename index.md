@@ -26,7 +26,7 @@
 ---
 [Clustering API Madrid](https://nbviewer.org/github/jjsilvera/data-science-portfolio/blob/main/Project_Madrid_cafeteria_cluster.ipynb)
 
-<p>Analyze Madrid's Districts for opening a cafeteria based on COVID cases from 2021, using KMeans, Folium maps and the Foursquare API.</p>
+<p>Analyze Madrid's Districts for opening a cafeteria based on the lowest number of COVID contagions of all Districts in 2021, using KMeans, Folium maps and the Foursquare API.</p>
 <img src="images/Cluster_Madrid.JPG?raw=truee"/>
 
 ---
