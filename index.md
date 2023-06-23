@@ -6,7 +6,7 @@
 
 [Exploratory Data Analysis - Car Prices](https://github.com/jjsilvera/data-science-portfolio/blob/main/Exploratory%20Data%20Analysis%20of%20Car%20Prices.ipynb)
 
-<p>Initial exploratory analysis of the Automobile dataset, in order to predict its price based on its characteristics.</p>
+<p>Initial exploratory analysis of the Automobile dataset, in order to predict a car's price based on its characteristics.</p>
 <img src="images/cars.jpeg?raw=true"/>
 
 ---
