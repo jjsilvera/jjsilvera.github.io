@@ -5,9 +5,8 @@ description: > # your text below (remove <br> elements if you don't need line br
   <br><br>
   Second description 
   <br><br>
-  <p><a href="https://github.com/jjsilvera/data-science-portfolio">GitHub</a><img src="/images/github-mark-white.png" alt=""></p>
-  <br><br>
+  <a href="https://github.com/jjsilvera/data-science-portfolio">GitHub</a><img src="/images/github-mark-white.png" alt="">
   <a href="https://linkedin.com/in/jairo-silvera-sarmiento">LinkedIn</a>
-  <br><br>
+  
 theme: jekyll-theme-minimal
 google_analytics: UA-000000-0 # your Google Analytics tracking ID here
