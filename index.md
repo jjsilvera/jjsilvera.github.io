@@ -1,5 +1,5 @@
 ## Portfolio
-<p>Github<img src="/images/github-mark-white.png" alt=""></p>
+<p>Github<img src="/images/github-mark-white.png" style="width:42px;height:42px;"></p>
 ---
 
 ### Exploratory Data Analysis
