@@ -5,7 +5,7 @@ description: > # your text below (remove <br> elements if you don't need line br
   <br><br>
   Second description 
   <br><br>
-  <a href="https://github.com/jjsilvera/data-science-portfolio">GitHub</a><img src="/images/github-mark-white.png" alt="">
+  <p><a href="https://github.com/jjsilvera/data-science-portfolio">GitHub</a><img src="/images/github-mark-white.png" alt=""></p>
   <br><br>
   <a href="https://linkedin.com/in/jairo-silvera-sarmiento">LinkedIn</a>
   <br><br>
