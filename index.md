@@ -48,7 +48,7 @@
 - [Project 5 Title](http://example.com/)
 
 ---
-<a href="https://github.com/jjsilvera/data-science-portfolio" style="font-size: 14px">View My GitHub Profile</a> <a href="https://github.com/jjsilvera/data-science-portfolio"><img src="https://img.shields.io/badge/GitHub-white?logo=github&logoColor=%23181717" alt=""></a><img src="images/github-mark-white.png?raw=true" style="width:14px;height:14px;/>
+<a href="https://github.com/jjsilvera/data-science-portfolio" style="font-size: 14px">View My GitHub Profile</a> <a href="https://github.com/jjsilvera/data-science-portfolio"><img src="https://img.shields.io/badge/GitHub-white?logo=github&logoColor=%23181717" alt=""></a><img src="images/github-mark-white.png?raw=true" style="width:14px;height:14px;"/>
 <br>
 <a href="https://linkedin.com/in/jairo-silvera-sarmiento" style="font-size: 14px">View My LinkedIn Profile</a> <a href="https://linkedin.com/in/jairo-silvera-sarmiento"><img src="https://img.shields.io/badge/LinkedIn-white?logo=linkedin&logoColor=%230A66C2" alt=""></a>
 
