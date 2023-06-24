@@ -30,7 +30,7 @@
 
 <p>Analyze Madrid's Districts for opening a cafeteria based on the lowest number of COVID contagions of all Districts in 2021, using KMeans, Folium maps and the Foursquare API.</p>
 <img src="images/Cluster_Madrid.JPG?raw=truee"/>
-<p><a href="#"><img src="https://img.shields.io/badge/Python-white?logo=Python" alt="" /></a> <a href="#"><img src="https://img.shields.io/badge/Pandas-white?logo=pandas&logoColor=%23150458" alt="Pandas"></a> <a href="#"><img src="https://img.shields.io/badge/Jupyter-white?logo=Jupyter" alt="" /></a> <a href="#"><img src="https://img.shields.io/badge/sklearn-white?logo=scikit-learn" alt="" /></a> <a href="#"><img src="https://img.shields.io/badge/Folium Maps-white?logo=Folium&logoColor=White" alt=""></a> <a href="#"><img src="https://img.shields.io/badge/Foursquare-white?logo=foursquare&logoColor=%233333FF" alt="Foursquare"></a></p>
+<p><a href="#"><img src="https://img.shields.io/badge/Python-white?logo=Python" alt="" /></a> <a href="#"><img src="https://img.shields.io/badge/Pandas-white?logo=pandas&logoColor=%23150458" alt="Pandas"></a> <a href="#"><img src="https://img.shields.io/badge/Jupyter-white?logo=Jupyter" alt="" /></a> <a href="#"><img src="https://img.shields.io/badge/sklearn-white?logo=scikit-learn" alt="" /></a> <a href="#"><img src="https://img.shields.io/badge/Folium Maps-white?logo=Folium&logoColor=White" alt=""></a> <a href="#"><img src="https://img.shields.io/badge/Foursquare-white?logo=foursquare&logoColor=%233333FF" alt=""></a></p>
 
 ---
 ### Deep Learning
