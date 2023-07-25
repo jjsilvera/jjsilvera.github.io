@@ -38,6 +38,7 @@
 <p>Natural Language Processing</p>
 <img src="images/Wordcloud_1.png?raw=truee"/>
 
+---
 ### Deep Learning
 [X-Ray image recognition](https://github.com/jjsilvera/data-science-portfolio/blob/main/X-Ray%20image%20recognition.ipynb)
 
