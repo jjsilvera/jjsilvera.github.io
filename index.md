@@ -33,6 +33,11 @@
 <p><a href="#"><img src="https://img.shields.io/badge/Python-white?logo=Python" alt="" /></a> <a href="#"><img src="https://img.shields.io/badge/Pandas-white?logo=pandas&logoColor=%23150458" alt="Pandas"></a> <a href="#"><img src="https://img.shields.io/badge/Jupyter-white?logo=Jupyter" alt="" /></a> <a href="#"><img src="https://img.shields.io/badge/sklearn-white?logo=scikit-learn" alt="" /></a> <a href="#"><img src="https://img.shields.io/badge/Folium Maps-white?logo=Folium&logoColor=White" alt=""></a> <a href="#"><img src="https://img.shields.io/badge/Foursquare-white?logo=foursquare&logoColor=%233333FF" alt=""></a></p>
 
 ---
+[NLP - Naive Bayes Model](https://github.com/jjsilvera/data-science-portfolio/blob/main/NLP_MultinomialNB.ipynb)
+
+<p>Natural Language Processing</p>
+<img src="images/Wordcloud_1.png?raw=truee"/>
+
 ### Deep Learning
 [X-Ray image recognition](https://github.com/jjsilvera/data-science-portfolio/blob/main/X-Ray%20image%20recognition.ipynb)
 
