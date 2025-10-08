@@ -48,6 +48,7 @@
 ---
 
 [Generador de imágenes - GAN](https://colab.research.google.com/drive/164sP6LOA1yE4WZEkw1emzcr04PJt7JCK?usp=sharing)
+<img src="images/MNIST.PNG?raw=truee"/>
 ### Categories
 
 - [Exploratory Data Analysis](https://github.com/jjsilvera/data-science-portfolio/blob/main/Exploratory%20Data%20Analysis%20of%20Car%20Prices.ipynb)
