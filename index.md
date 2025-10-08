@@ -52,6 +52,9 @@
 <p>Clasification tasks and prediction of respiratory diseases based on X-Ray images using Convolutional Neural Networks.</p>
 <img src="images/Deep1.PNG?raw=truee"/>
 <p><a href="#"><img src="https://img.shields.io/badge/Python-white?logo=Python" alt="" /></a> <a href="#"><img src="https://img.shields.io/badge/Pandas-white?logo=pandas&logoColor=%23150458" alt="Pandas"></a> <a href="#"><img src="https://img.shields.io/badge/Jupyter-white?logo=Jupyter" alt="" /></a> <a href="#"><img src="https://img.shields.io/badge/Keras-white?logo=keras&logoColor=D00000" alt=""></a> <a href="#"><img src="https://img.shields.io/badge/TensorFlow-white?logo=tensorflow&logoColor=%23FF6F00" alt=""></a></p>
+---
+
+[Generador de imágenes - GAN](https://colab.research.google.com/drive/164sP6LOA1yE4WZEkw1emzcr04PJt7JCK?usp=drive_link)
 ### Categories
 
 - [Exploratory Data Analysis](https://github.com/jjsilvera/data-science-portfolio/blob/main/Exploratory%20Data%20Analysis%20of%20Car%20Prices.ipynb)
