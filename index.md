@@ -11,13 +11,6 @@
 <p><a href="#"><img src="https://img.shields.io/badge/Python-white?logo=Python" alt="" /></a> <a href="#"><img src="https://img.shields.io/badge/Pandas-white?logo=pandas&logoColor=%23150458" alt="Pandas"></a> <a href="#"><img src="https://img.shields.io/badge/SciPy-white?logo=scipy&logoColor=8CAAE6" alt=""></a> <a href="#"><img src="https://img.shields.io/badge/NumPy-white?logo=numpy&logoColor=%23013243" alt="NumPy"></a></p>
 ---
 
-### BI - Data Visualization
-
-[Dashboard Tickets IT](https://app.powerbi.com/groups/me/reports/1677ccf3-921c-4d3c-8d67-fddd477bd1b7/ReportSectionf5b71a34fdba42f25c58?experience=power-bi&clientSideAuth=0&bookmarkGuid=Bookmark08cb71d58534fa3316e6)
-
-<p>Dashboard made with Power Bi which shows the management of tickets and requests for issues in the IT sector of a tech company.</p>
----
-
 ### Machine Learning
 [Logistic Regression Model](https://github.com/jjsilvera/data-science-portfolio/blob/main/Logistic%20Regression%20model.ipynb)
 
