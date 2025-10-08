@@ -48,6 +48,7 @@
 ---
 
 [Generador de imágenes - GAN](https://colab.research.google.com/drive/164sP6LOA1yE4WZEkw1emzcr04PJt7JCK?usp=sharing)
+
 <img src="images/MNIST.png?raw=truee"/>
 ### Categories
 
