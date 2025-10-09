@@ -49,7 +49,7 @@
 
 [Generador de imágenes - GAN](https://colab.research.google.com/drive/164sP6LOA1yE4WZEkw1emzcr04PJt7JCK?usp=sharing)
 
-<p>Entrenar una red GAN (Generative Adversarial Network) con el objetivo de generar imágenes sintéticas de dígitos escritos a mano (0-9) similares a los del conjunto de datos MNIST.</p>
+<p>Red GAN (Generative Adversarial Network) con el objetivo de generar imágenes sintéticas de dígitos escritos a mano (0-9) similares a los del conjunto de datos MNIST.</p>
 <img src="images/MNIST.png?raw=truee"/>
 ---
 
