@@ -6,7 +6,7 @@
 
 [Exploratory Data Analysis - Car Prices](https://github.com/jjsilvera/data-science-portfolio/blob/main/Exploratory%20Data%20Analysis%20of%20Car%20Prices.ipynb)
 
-<p>Initial exploratory data analysis of the Automobile dataset, in order to predict a car's price based on its characteristics.</p>
+<p>Análisis exploratorio inicial de los datos del conjunto de datos Automobile, con el fin de predecir el precio de un coche basándose en sus características.</p>
 <img src="images/cars.jpeg?raw=true"/>
 <p><a href="#"><img src="https://img.shields.io/badge/Python-white?logo=Python" alt="" /></a> <a href="#"><img src="https://img.shields.io/badge/Pandas-white?logo=pandas&logoColor=%23150458" alt="Pandas"></a> <a href="#"><img src="https://img.shields.io/badge/SciPy-white?logo=scipy&logoColor=8CAAE6" alt=""></a> <a href="#"><img src="https://img.shields.io/badge/NumPy-white?logo=numpy&logoColor=%23013243" alt="NumPy"></a></p>
 ---
@@ -14,21 +14,21 @@
 ### Machine Learning
 [Logistic Regression Model](https://github.com/jjsilvera/data-science-portfolio/blob/main/Logistic%20Regression%20model.ipynb)
 
-<p>Logistic Regression model for a telecommunication company in order to predict when customers leave for a competitor, so that they can take some action to retain the customers.</p>
+<p>Modelo de regresión logística para una empresa de telecomunicaciones con el fin de predecir cuándo los clientes se marchan a la competencia, de modo que puedan tomar medidas para retenerlos.</p>
 <img src="images/Sigmoid.JPG?raw=true"/>
 <p><a href="#"><img src="https://img.shields.io/badge/Python-white?logo=Python" alt="" /></a> <a href="#"><img src="https://img.shields.io/badge/Pandas-white?logo=pandas&logoColor=%23150458" alt="Pandas"></a> <a href="#"><img src="https://img.shields.io/badge/Jupyter-white?logo=Jupyter" alt="" /></a> <a href="#"><img src="https://img.shields.io/badge/sklearn-white?logo=scikit-learn" alt="" /></a></p>
 ---
 
 [Clustering Model](https://github.com/jjsilvera/data-science-portfolio/blob/main/Cluster_analysis.ipynb)
 
-<p>Clustering model using KMeans, PCA and Autoencoders for an advertising marketing campaign based on customer's data from a bank.</p>
+<p>Modelo de cluster utilizando KMeans, PCA y autoencodificadores para una campaña de marketing publicitario basada en los datos de los clientes de un banco.</p>
 <img src="images/cluster_4.png?raw=true"/>
 <p><a href="#"><img src="https://img.shields.io/badge/Python-white?logo=Python" alt="" /></a> <a href="#"><img src="https://img.shields.io/badge/Pandas-white?logo=pandas&logoColor=%23150458" alt="Pandas"></a> <a href="#"><img src="https://img.shields.io/badge/Jupyter-white?logo=Jupyter" alt="" /></a> <a href="#"><img src="https://img.shields.io/badge/sklearn-white?logo=scikit-learn" alt="" /></a></p>
 ---
 
 [Clustering API Madrid](https://nbviewer.org/github/jjsilvera/data-science-portfolio/blob/main/Project_Madrid_cafeteria_cluster.ipynb)
 
-<p>Analyze Madrid's Districts for opening a cafeteria based on the lowest number of COVID contagions of all Districts in 2021, using KMeans, Folium maps and the Foursquare API.</p>
+<p>Analizar los distritos de Madrid para abrir una cafetería basándose en el menor número de contagios de COVID de todos los distritos en 2021, utilizando KMeans, mapas Folium y la API de Foursquare.</p>
 <img src="images/Cluster_Madrid.JPG?raw=truee"/>
 <p><a href="#"><img src="https://img.shields.io/badge/Python-white?logo=Python" alt="" /></a> <a href="#"><img src="https://img.shields.io/badge/Pandas-white?logo=pandas&logoColor=%23150458" alt="Pandas"></a> <a href="#"><img src="https://img.shields.io/badge/Jupyter-white?logo=Jupyter" alt="" /></a> <a href="#"><img src="https://img.shields.io/badge/sklearn-white?logo=scikit-learn" alt="" /></a> <a href="#"><img src="https://img.shields.io/badge/Folium Maps-white?logo=Folium&logoColor=White" alt=""></a> <a href="#"><img src="https://img.shields.io/badge/Foursquare-white?logo=foursquare&logoColor=%233333FF" alt=""></a></p>
 ---
@@ -42,14 +42,17 @@
 ### Deep Learning
 [X-Ray image recognition](https://github.com/jjsilvera/data-science-portfolio/blob/main/X-Ray%20image%20recognition.ipynb)
 
-<p>Clasification tasks and prediction of respiratory diseases based on X-Ray images using Convolutional Neural Networks.</p>
+<p>Tareas de clasificación y predicción de enfermedades respiratorias basadas en imágenes de rayos X utilizando redes neuronales convolucionales.</p>
 <img src="images/Deep1.PNG?raw=truee"/>
 <p><a href="#"><img src="https://img.shields.io/badge/Python-white?logo=Python" alt="" /></a> <a href="#"><img src="https://img.shields.io/badge/Pandas-white?logo=pandas&logoColor=%23150458" alt="Pandas"></a> <a href="#"><img src="https://img.shields.io/badge/Jupyter-white?logo=Jupyter" alt="" /></a> <a href="#"><img src="https://img.shields.io/badge/Keras-white?logo=keras&logoColor=D00000" alt=""></a> <a href="#"><img src="https://img.shields.io/badge/TensorFlow-white?logo=tensorflow&logoColor=%23FF6F00" alt=""></a></p>
 ---
 
 [Generador de imágenes - GAN](https://colab.research.google.com/drive/164sP6LOA1yE4WZEkw1emzcr04PJt7JCK?usp=sharing)
 
+<p>Entrenar una red GAN (Generative Adversarial Network) con el objetivo de generar imágenes sintéticas de dígitos escritos a mano (0-9) similares a los del conjunto de datos MNIST.</p>
 <img src="images/MNIST.png?raw=truee"/>
+---
+
 ### Categories
 
 - [Exploratory Data Analysis](https://github.com/jjsilvera/data-science-portfolio/blob/main/Exploratory%20Data%20Analysis%20of%20Car%20Prices.ipynb)
