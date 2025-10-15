@@ -53,6 +53,8 @@
 <img src="images/MNIST.png?raw=truee"/>
 ---
 
+[Generador de series temporales - WGAN(Generador_de_series_temporales_WGAN.ipynb)]
+
 ### Categories
 
 - [Exploratory Data Analysis](https://github.com/jjsilvera/data-science-portfolio/blob/main/Exploratory%20Data%20Analysis%20of%20Car%20Prices.ipynb)
