@@ -53,7 +53,7 @@
 <img src="images/MNIST.png?raw=truee"/>
 ---
 
-[Generador de series temporales - WGAN(Generador_de_series_temporales_WGAN.ipynb)]
+[Generador de series temporales - WGAN(https://github.com/jjsilvera/data-science-portfolio/blob/393f6da2d1a30d0d20d7f7808aa701ed4bef5625/Generador_de_series_temporales_WGAN.ipynb)]
 
 ### Categories
 
