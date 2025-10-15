@@ -49,11 +49,14 @@
 
 [Generador de imágenes - GAN](https://colab.research.google.com/drive/164sP6LOA1yE4WZEkw1emzcr04PJt7JCK?usp=sharing)
 
-<p>Red GAN (Generative Adversarial Network) con el objetivo de generar imágenes sintéticas de dígitos escritos a mano (0-9) similares a los del conjunto de datos MNIST.</p>
+<p>Red Neuronal GAN (Generative Adversarial Network) con el objetivo de generar imágenes sintéticas de dígitos escritos a mano (0-9) similares a los del conjunto de datos MNIST.</p>
 <img src="images/MNIST.png?raw=truee"/>
 ---
 
 [Generador de series temporales - WGAN](https://github.com/jjsilvera/data-science-portfolio/blob/393f6da2d1a30d0d20d7f7808aa701ed4bef5625/Generador_de_series_temporales_WGAN.ipynb)
+
+<p>Red Neuronal WGAN (Wasserstein Generative Adversarial Network) generar series temporales sintéticas de temperatura, genera secuencias de temperatura realistas.</p>
+<img src="images/Series.png?raw=true"/>
 
 ### Categories
 
