@@ -7,7 +7,7 @@
 [Exploratory Data Analysis - Car Prices](https://github.com/jjsilvera/data-science-portfolio/blob/main/Exploratory%20Data%20Analysis%20of%20Car%20Prices.ipynb)
 
 <p>Análisis exploratorio inicial de los datos del conjunto de datos Automobile, con el fin de predecir el precio de un coche basándose en sus características.</p>
-<img src="images/car.png?raw=true"/>
+<img src="images/Car.png?raw=true"/>
 <p><a href="#"><img src="https://img.shields.io/badge/Python-white?logo=Python" alt="" /></a> <a href="#"><img src="https://img.shields.io/badge/Pandas-white?logo=pandas&logoColor=%23150458" alt="Pandas"></a> <a href="#"><img src="https://img.shields.io/badge/SciPy-white?logo=scipy&logoColor=8CAAE6" alt=""></a> <a href="#"><img src="https://img.shields.io/badge/NumPy-white?logo=numpy&logoColor=%23013243" alt="NumPy"></a></p>
 ---
 
@@ -22,7 +22,7 @@
 [Clustering Model](https://github.com/jjsilvera/data-science-portfolio/blob/main/Cluster_analysis.ipynb)
 
 <p>Modelo de cluster utilizando KMeans, PCA y autoencodificadores para una campaña de marketing publicitario basada en los datos de los clientes de un banco.</p>
-<img src="images/cluster.png?raw=true"/>
+<img src="images/Cluster.png?raw=true"/>
 <p><a href="#"><img src="https://img.shields.io/badge/Python-white?logo=Python" alt="" /></a> <a href="#"><img src="https://img.shields.io/badge/Pandas-white?logo=pandas&logoColor=%23150458" alt="Pandas"></a> <a href="#"><img src="https://img.shields.io/badge/Jupyter-white?logo=Jupyter" alt="" /></a> <a href="#"><img src="https://img.shields.io/badge/sklearn-white?logo=scikit-learn" alt="" /></a></p>
 ---
 
