@@ -26,9 +26,9 @@
 <p><a href="#"><img src="https://img.shields.io/badge/Python-white?logo=Python" alt="" /></a> <a href="#"><img src="https://img.shields.io/badge/Pandas-white?logo=pandas&logoColor=%23150458" alt="Pandas"></a> <a href="#"><img src="https://img.shields.io/badge/Jupyter-white?logo=Jupyter" alt="" /></a> <a href="#"><img src="https://img.shields.io/badge/sklearn-white?logo=scikit-learn" alt="" /></a></p>
 ---
 
-[Clustering API Madrid](https://nbviewer.org/github/jjsilvera/data-science-portfolio/blob/main/Project_Madrid_cafeteria_cluster.ipynb)
+[Clustering API Madrid](https://drive.google.com/file/d/17rhF5jGKFu_y0HGlI10jVuRNuwa7J5Mr/view?usp=sharing)
 
-<p>Analizar los distritos de Madrid para abrir una cafetería basándose en el menor número de contagios de COVID de todos los distritos en 2021, utilizando KMeans, mapas Folium y la API de Foursquare.</p>
+<p>Analizar los distritos de Madrid para abrir una cafetería basándose en el menor número de contagios de COVID de todos los distritos en 2021, utilizando KMeans, Folium maps y la API de Foursquare.</p>
 <img src="images/Cluster_Madrid.JPG?raw=truee"/>
 <p><a href="#"><img src="https://img.shields.io/badge/Python-white?logo=Python" alt="" /></a> <a href="#"><img src="https://img.shields.io/badge/Pandas-white?logo=pandas&logoColor=%23150458" alt="Pandas"></a> <a href="#"><img src="https://img.shields.io/badge/Jupyter-white?logo=Jupyter" alt="" /></a> <a href="#"><img src="https://img.shields.io/badge/sklearn-white?logo=scikit-learn" alt="" /></a> <a href="#"><img src="https://img.shields.io/badge/Folium Maps-white?logo=Folium&logoColor=White" alt=""></a> <a href="#"><img src="https://img.shields.io/badge/Foursquare-white?logo=foursquare&logoColor=%233333FF" alt=""></a></p>
 ---
