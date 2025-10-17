@@ -26,7 +26,7 @@
 <p><a href="#"><img src="https://img.shields.io/badge/Python-white?logo=Python" alt="" /></a> <a href="#"><img src="https://img.shields.io/badge/Pandas-white?logo=pandas&logoColor=%23150458" alt="Pandas"></a> <a href="#"><img src="https://img.shields.io/badge/Jupyter-white?logo=Jupyter" alt="" /></a> <a href="#"><img src="https://img.shields.io/badge/sklearn-white?logo=scikit-learn" alt="" /></a></p>
 ---
 
-[Clustering API Madrid](https://drive.google.com/file/d/17rhF5jGKFu_y0HGlI10jVuRNuwa7J5Mr/view?usp=sharing)
+[Clustering API Madrid](https://colab.research.google.com/drive/19DPfJpg-CxN5yN4VPcpuY9gL7n5egcB1?usp=sharing)
 
 <p>Analizar los distritos de Madrid para abrir una cafetería basándose en el menor número de contagios de COVID de todos los distritos en 2021, utilizando KMeans, Folium maps y la API de Foursquare.</p>
 <img src="images/Cluster_Madrid.JPG?raw=truee"/>
