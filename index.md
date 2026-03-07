@@ -57,6 +57,12 @@
 
 <p>Red Neuronal WGAN (Wasserstein Generative Adversarial Network) genera series temporales sintéticas de temperatura, produce secuencias de temperatura realistas.</p>
 <img src="images/Series.png?raw=true"/>
+---
+
+### AI Projects
+[Chatbot Multi-Modelo (Streamlit + LangChain)](https://github.com/jjsilvera/streamlit-genai-chatbot)
+
+<p>Chatbot de IA con múltiples proveedores construido con Streamlit y LangChain.</p>
 
 ### Categories
 
