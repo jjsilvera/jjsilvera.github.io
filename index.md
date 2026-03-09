@@ -63,6 +63,7 @@
 [Chatbot Multi-Modelo (Streamlit + LangChain)](https://github.com/jjsilvera/streamlit-genai-chatbot)
 
 <p>Chatbot de IA con múltiples proveedores construido con Streamlit y LangChain.</p>
+<img src="images/Chatbot.png?raw=true"/>
 
 ### Categories
 
