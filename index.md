@@ -68,7 +68,8 @@
 [SmartPDF Chat – RAG Chatbot con PDFs](https://github.com/jjsilvera/smartpdf-chat)
 
 <p>Retrieval-Augmented Generation (RAG) que permite subir documentos PDF y hacer preguntas sobre su contenido.</p>
-<img src="images/Chatbot.png?raw=true"/>
+<img src="images/Smartpdf.png?raw=true"/>
+
 
 ### Categories
 
