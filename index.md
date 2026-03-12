@@ -65,6 +65,11 @@
 <p>Chatbot de IA con múltiples proveedores construido con Streamlit y LangChain.</p>
 <img src="images/Chatbot.png?raw=true"/>
 
+[SmartPDF Chat – RAG Chatbot con PDFs](https://github.com/jjsilvera/smartpdf-chat)
+
+<p>Retrieval-Augmented Generation (RAG) que permite subir documentos PDF y hacer preguntas sobre su contenido.</p>
+<img src="images/Chatbot.png?raw=true"/>
+
 ### Categories
 
 - [Exploratory Data Analysis](https://github.com/jjsilvera/data-science-portfolio/blob/main/Exploratory%20Data%20Analysis%20of%20Car%20Prices.ipynb)
